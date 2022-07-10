@@ -12,9 +12,9 @@ After analyzing some exploratory data for PyBer - a ride sharing app company, we
 ## Software
 - Python 3.7.6
 
-- Matplotlib
+- Matplotlib 3.5.1
 
-- Pandas
+- Pandas 1.4.2
 
 - Jupyter Notebook
 
