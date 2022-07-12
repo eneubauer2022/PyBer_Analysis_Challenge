@@ -16,7 +16,7 @@ After analyzing some exploratory data for PyBer - a ride sharing app company, we
 
 - Pandas 1.4.2
 
-- Jupyter Notebook
+- Jupyter Notebook 6.4.8
 
 ## Results:
 
